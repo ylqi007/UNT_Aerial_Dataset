@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uav_000043</folder>
+	<filename>000076.jpg</filename>
+	<path>E:\dataset_label\AerialDataset_0.1\JPEGImages\uav_000043\000076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>152</ymin>
+			<xmax>472</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

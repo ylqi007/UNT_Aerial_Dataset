@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uav_000041</folder>
+	<filename>000066.jpg</filename>
+	<path>E:\dataset_label\AerialDataset_0.1\JPEGImages\uav_000041\000066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>333</ymin>
+			<xmax>874</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

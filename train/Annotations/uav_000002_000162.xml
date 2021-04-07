@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uav_000002</folder>
+	<filename>000162.jpg</filename>
+	<path>E:\dataset_label\AerialDataset_0.1\JPEGImages\uav_000002\000162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>246</ymin>
+			<xmax>457</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
